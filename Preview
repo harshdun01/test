@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>
+            Inveta
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <table width="100%">
+            <tr>
+                <td>
+                    <img style="margin-left: 90px;" src="Invezta%20Logo.png">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <span style="font-family:segoe ui; color: #555555; line-height: 0">
+                        <p style="text-align: center; margin-top: 70px ; font-size: 32; line-height: 0">Your Recommended Portfolio</p>
+                        <p style="text-align: center; font-size: 14">How Did we do it?</p>
+                    </span>
+                </td>
+            </tr>
+        </table>
+        <table align="center" style="margin-top: 20px">
+            <tr>
+                <td>
+                    <p style="font-size: 32; font-family:segoe ui; color: #555555; padding: 35px">Car<br><span style="font-size: 11">Goal Selected</span></p>
+                </td>
+                <td>
+                    <p style="font-size: 32; font-family:segoe ui; color: #555555; padding: 35px">9L<br><span style="font-size: 11">Target Amount</span></p>
+                </td>
+                <td>
+                    <p style="font-size: 32; font-family:segoe ui; color: #555555; padding: 35px">Jun 2032<br><span style="font-size: 11">Target Date</span></p>
+                </td>
+                <td>
+                    <p style="font-size: 32; font-family:segoe ui; color: #555555; padding: 35px">SIP<br><span style="font-size: 11">Investment Type</span></p>
+                </td>
+                <td>
+                    <p style="font-size: 32; font-family:segoe ui; color: #555555; padding: 35px">30,000<br><span style="font-size: 11">Investment Needed</span></p>
+                </td>
+            </tr>
+        </table>
+        <table align="center" style="margin-top: 20px">
+            <tr>
+                <td>
+                    <img style="100%; height: auto" src="Untitled.png" width="800px">
+                </td>
+            </tr>
+        </table>
+        <table align="center" style="margin-top: 20px">
+            <tr>
+                <td>
+            <span style="background-color: #12D6B0; font-family:segoe ui; padding:10px 20px 10px 20px; color: white; font-size: 20;">
+                Start Investing Now
+            </span>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
